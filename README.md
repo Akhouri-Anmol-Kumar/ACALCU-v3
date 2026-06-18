@@ -3,6 +3,13 @@
 
 A highly customizable scientific calculator built with Python and PyQt6.
 
+## Download
+
+<a href="https://github.com/Akhouri-Anmol-Kumar/ACALCU-v3/releases/download/ACALCU/ACALCU.by.Akhouri.Systems.zip">
+  <img src="https://img.shields.io/badge/Download-ACALCU%20V3-success?style=for-the-badge&logo=github" alt="Download ACALCU V3">
+</a>
+
+
 ACALCU V3 is more than a calculator. It combines scientific calculations, advanced customization, multimedia integration, and modern desktop UI design into a single application.
 
 ## Features
